@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from time import sleep
 
-email = "anshkulshreshtha01@gmail.com"
-password = "09876poiuy"
+email = "******************@gmail.com"
+password = "*************"
 
 chrome_driver_path = "c:\development\chromedriver.exe"
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
